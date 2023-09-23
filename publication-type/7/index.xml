@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Nitya Thakkar</title>
+    <link>https://nityathakkar.github.io/publication-type/7/</link>
+      <atom:link href="https://nityathakkar.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nityathakkar.github.io/media/icon_huc15e4310fe8b11837a5e38618276e803_4842927_512x512_fill_lanczos_center_3.png</url>
+      <title>7</title>
+      <link>https://nityathakkar.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Using Graph Neural Networks to Model the Glioblastoma Free Energy Landscape (Honors Thesis)</title>
+      <link>https://nityathakkar.github.io/research/thesis/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
