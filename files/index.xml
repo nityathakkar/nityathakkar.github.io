@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Files | Nitya Thakkar</title>
+    <link>https://nityathakkar.github.io/files/</link>
+      <atom:link href="https://nityathakkar.github.io/files/index.xml" rel="self" type="application/rss+xml" />
+    <description>Files</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://nityathakkar.github.io/media/icon_huc15e4310fe8b11837a5e38618276e803_4842927_512x512_fill_lanczos_center_3.png</url>
+      <title>Files</title>
+      <link>https://nityathakkar.github.io/files/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://nityathakkar.github.io/files/googled320cec40be335fe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/files/googled320cec40be335fe/</guid>
+      <description>google-site-verification: googled320cec40be335fe.html</description>
+    </item>
+    
+  </channel>
+</rss>
