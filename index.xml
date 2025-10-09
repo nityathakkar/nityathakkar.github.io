@@ -13,23 +13,55 @@
     </image>
     
     <item>
-      <title>Protein generation with evolutionary diffusion: sequence is all you need (preprint)</title>
-      <link>https://nityathakkar.github.io/research/preprint/</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/preprint/</guid>
+      <title>ROSIE: AI generation of multiplex immunofluorescence staining from histopathology images</title>
+      <link>https://nityathakkar.github.io/research/rosie/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/rosie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can LLM feedback enhance review quality? A randomized study of 20K reviews at ICLR 2025</title>
+      <link>https://nityathakkar.github.io/research/review_feedback/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/review_feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein generation with evolutionary diffusion: sequence is all you need</title>
+      <link>https://nityathakkar.github.io/research/evodiff/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/evodiff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting A/B compartments from histone modifications using deep learning</title>
-      <link>https://nityathakkar.github.io/research/conference-paper/</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/conference-paper/</guid>
+      <link>https://nityathakkar.github.io/research/cornn/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/cornn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Using Graph Neural Networks to Model the Glioblastoma Free Energy Landscape (Honors Thesis)</title>
+      <title>Protein generation with evolutionary diffusion: sequence is all you need (preprint)</title>
+      <link>https://nityathakkar.github.io/research-old/preprint/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research-old/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting A/B compartments from histone modifications using deep learning</title>
+      <link>https://nityathakkar.github.io/research-old/conference-paper/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research-old/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Graph Neural Networks to Model the Glioblastoma Free Energy Landscape</title>
       <link>https://nityathakkar.github.io/research/thesis/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       <guid>https://nityathakkar.github.io/research/thesis/</guid>
@@ -37,10 +69,18 @@
     </item>
     
     <item>
+      <title>Using Graph Neural Networks to Model the Glioblastoma Free Energy Landscape (Honors Thesis)</title>
+      <link>https://nityathakkar.github.io/research-old/thesis/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research-old/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example journal article</title>
-      <link>https://nityathakkar.github.io/research/journal-article/</link>
+      <link>https://nityathakkar.github.io/research-old/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/journal-article/</guid>
+      <guid>https://nityathakkar.github.io/research-old/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

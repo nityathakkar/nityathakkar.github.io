@@ -5,7 +5,7 @@
     <link>https://nityathakkar.github.io/publication-type/3/</link>
       <atom:link href="https://nityathakkar.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nityathakkar.github.io/media/icon_huc15e4310fe8b11837a5e38618276e803_4842927_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Protein generation with evolutionary diffusion: sequence is all you need</title>
+      <link>https://nityathakkar.github.io/research/evodiff/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/evodiff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Protein generation with evolutionary diffusion: sequence is all you need (preprint)</title>
-      <link>https://nityathakkar.github.io/research/preprint/</link>
+      <link>https://nityathakkar.github.io/research-old/preprint/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/preprint/</guid>
+      <guid>https://nityathakkar.github.io/research-old/preprint/</guid>
       <description></description>
     </item>
     

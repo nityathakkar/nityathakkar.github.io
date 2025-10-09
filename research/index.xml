@@ -1,58 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research | Nitya Thakkar</title>
+    <title>Researches | Nitya Thakkar</title>
     <link>https://nityathakkar.github.io/research/</link>
       <atom:link href="https://nityathakkar.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    <description>Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <description>Researches</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nityathakkar.github.io/media/icon_huc15e4310fe8b11837a5e38618276e803_4842927_512x512_fill_lanczos_center_3.png</url>
-      <title>Research</title>
+      <title>Researches</title>
       <link>https://nityathakkar.github.io/research/</link>
     </image>
     
     <item>
-      <title>Protein generation with evolutionary diffusion: sequence is all you need (preprint)</title>
-      <link>https://nityathakkar.github.io/research/preprint/</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/preprint/</guid>
+      <title>ROSIE: AI generation of multiplex immunofluorescence staining from histopathology images</title>
+      <link>https://nityathakkar.github.io/research/rosie/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/rosie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can LLM feedback enhance review quality? A randomized study of 20K reviews at ICLR 2025</title>
+      <link>https://nityathakkar.github.io/research/review_feedback/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/review_feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein generation with evolutionary diffusion: sequence is all you need</title>
+      <link>https://nityathakkar.github.io/research/evodiff/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/evodiff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting A/B compartments from histone modifications using deep learning</title>
-      <link>https://nityathakkar.github.io/research/conference-paper/</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/conference-paper/</guid>
+      <link>https://nityathakkar.github.io/research/cornn/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/cornn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Using Graph Neural Networks to Model the Glioblastoma Free Energy Landscape (Honors Thesis)</title>
+      <title>Using Graph Neural Networks to Model the Glioblastoma Free Energy Landscape</title>
       <link>https://nityathakkar.github.io/research/thesis/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       <guid>https://nityathakkar.github.io/research/thesis/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://nityathakkar.github.io/research/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

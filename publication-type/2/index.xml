@@ -5,7 +5,7 @@
     <link>https://nityathakkar.github.io/publication-type/2/</link>
       <atom:link href="https://nityathakkar.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nityathakkar.github.io/media/icon_huc15e4310fe8b11837a5e38618276e803_4842927_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>ROSIE: AI generation of multiplex immunofluorescence staining from histopathology images</title>
+      <link>https://nityathakkar.github.io/research/rosie/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/rosie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example journal article</title>
-      <link>https://nityathakkar.github.io/research/journal-article/</link>
+      <link>https://nityathakkar.github.io/research-old/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/journal-article/</guid>
+      <guid>https://nityathakkar.github.io/research-old/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
