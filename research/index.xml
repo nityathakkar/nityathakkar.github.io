@@ -5,12 +5,28 @@
     <link>https://nityathakkar.github.io/research/</link>
       <atom:link href="https://nityathakkar.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Researches</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nityathakkar.github.io/media/icon_huc15e4310fe8b11837a5e38618276e803_4842927_512x512_fill_lanczos_center_3.png</url>
       <title>Researches</title>
       <link>https://nityathakkar.github.io/research/</link>
     </image>
+    
+    <item>
+      <title>A large-scale randomized study of large language model feedback in peer review</title>
+      <link>https://nityathakkar.github.io/research/review_feedback/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/review_feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Histopathology-Transcriptomic Biomarker Enhances Survival Prediction in HNSCC Patients Treated with Immunotherapy</title>
+      <link>https://nityathakkar.github.io/research/genmab/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/genmab/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ROSIE: AI generation of multiplex immunofluorescence staining from histopathology images</title>
@@ -21,26 +37,18 @@
     </item>
     
     <item>
-      <title>Can LLM feedback enhance review quality? A randomized study of 20K reviews at ICLR 2025</title>
-      <link>https://nityathakkar.github.io/research/review_feedback/</link>
-      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/review_feedback/</guid>
+      <title>Predicting A/B compartments from histone modifications using deep learning</title>
+      <link>https://nityathakkar.github.io/research/cornn/</link>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/cornn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protein generation with evolutionary diffusion: sequence is all you need</title>
       <link>https://nityathakkar.github.io/research/evodiff/</link>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://nityathakkar.github.io/research/evodiff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting A/B compartments from histone modifications using deep learning</title>
-      <link>https://nityathakkar.github.io/research/cornn/</link>
-      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/cornn/</guid>
       <description></description>
     </item>
     
