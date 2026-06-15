@@ -5,7 +5,7 @@
     <link>https://nityathakkar.github.io/publication-type/2/</link>
       <atom:link href="https://nityathakkar.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nityathakkar.github.io/media/icon_huc15e4310fe8b11837a5e38618276e803_4842927_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>A large-scale randomized study of large language model feedback in peer review</title>
-      <link>https://nityathakkar.github.io/research/review_feedback/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/review_feedback/</guid>
+      <title>Integrated histopathology–transcriptomic biomarker enhances survival prediction in HNSCC patients treated with immunotherapy</title>
+      <link>https://nityathakkar.github.io/research/genmab/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/genmab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ROSIE: AI generation of multiplex immunofluorescence staining from histopathology images</title>
-      <link>https://nityathakkar.github.io/research/rosie/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/rosie/</guid>
+      <title>A large-scale randomized study of large language model feedback in peer review</title>
+      <link>https://nityathakkar.github.io/research/review_feedback/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/review_feedback/</guid>
       <description></description>
     </item>
     

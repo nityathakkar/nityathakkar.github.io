@@ -5,7 +5,7 @@
     <link>https://nityathakkar.github.io/research/</link>
       <atom:link href="https://nityathakkar.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Researches</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nityathakkar.github.io/media/icon_huc15e4310fe8b11837a5e38618276e803_4842927_512x512_fill_lanczos_center_3.png</url>
       <title>Researches</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>A large-scale randomized study of large language model feedback in peer review</title>
-      <link>https://nityathakkar.github.io/research/review_feedback/</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/review_feedback/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrated Histopathology-Transcriptomic Biomarker Enhances Survival Prediction in HNSCC Patients Treated with Immunotherapy</title>
+      <title>Integrated histopathology–transcriptomic biomarker enhances survival prediction in HNSCC patients treated with immunotherapy</title>
       <link>https://nityathakkar.github.io/research/genmab/</link>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://nityathakkar.github.io/research/genmab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ROSIE: AI generation of multiplex immunofluorescence staining from histopathology images</title>
-      <link>https://nityathakkar.github.io/research/rosie/</link>
-      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://nityathakkar.github.io/research/rosie/</guid>
+      <title>Characterization of menopause onset and associated disease risks using large-scale electronic health records</title>
+      <link>https://nityathakkar.github.io/research/menopause_ehr/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/menopause_ehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A large-scale randomized study of large language model feedback in peer review</title>
+      <link>https://nityathakkar.github.io/research/review_feedback/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/review_feedback/</guid>
       <description></description>
     </item>
     
@@ -57,6 +57,14 @@
       <link>https://nityathakkar.github.io/research/thesis/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       <guid>https://nityathakkar.github.io/research/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nityathakkar.github.io/research/rosie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nityathakkar.github.io/research/rosie/</guid>
       <description></description>
     </item>
     
