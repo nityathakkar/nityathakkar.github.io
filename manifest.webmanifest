@@ -2,8 +2,8 @@
   "name": "Nitya Thakkar",
   "short_name": "Nitya Thakkar",
   "lang": "en-us",
-  "theme_color": "rgb(251, 191, 183)",
-  "background_color": "rgb(251, 191, 183)",
+  "theme_color": "#b5406d",
+  "background_color": "#b5406d",
   "icons": [{
     "src": "/media/icon_huc15e4310fe8b11837a5e38618276e803_4842927_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
